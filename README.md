@@ -1,4 +1,4 @@
-[04.html](https://github.com/user-attachments/files/22923803/04.html)
+[04.html](https://github.com/user-attachments/files/22923832/04.html)
 	<!DOCTYPE html>
 	<html lang="kk">
 	<head>
@@ -11,5 +11,5 @@
 	    p { font-size: 18px; }
 	  </style>
 	</head>
-	<body>	  <h1>Менің алғашқы веб-сайтым</h1>	  <p>Бұл менің жеке бетім. Мұнда мен өзім туралы ақпарат бөлісемін.</p>.	</body>
+	<body>	  <h1>Менің алғашқы веб-сайтым</h1>	  <p>Бұл менің жеке бетім. Мұнда мен өзім туралы ақпарат бөлісемін</p>.	</body>
 	</html>
