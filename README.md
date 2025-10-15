@@ -1,5 +1,5 @@
-
-	<!DOCTYPE html>
+[04.html](https://github.com/user-attachments/files/22924363/04.html)
+<!DOCTYPE html>
 	<html lang="kk">
 	<head>
 	  <meta charset="UTF-8">
