@@ -1,3 +1,4 @@
+[06.html](https://github.com/user-attachments/files/22924213/06.html)
 	<!DOCTYPE html>
 	<html lang="kk">
 	<head>
